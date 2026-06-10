@@ -1,0 +1,65 @@
+{
+  "quiz": [
+    {
+      "id": "1",
+      "category": "HTML",
+      "question": "Expand HTML",
+      "answer": "Hyper Text MarkUP Language"
+    },
+    {
+      "id": "2",
+      "category": "CSS",
+      "question": "Expand CSS",
+      "answer": "Cascading Style Sheets"
+    },
+    {
+      "id": "3",
+      "category": "JSON",
+      "question": "Expand JSON",
+      "answer": "Java Script Object Notation"
+    },
+    {
+      "category": "HTML",
+      "question": "Father Of HTML",
+      "answer": "Tim Berner's Lee",
+      "id": "1GbNg_qophM"
+    },
+    {
+      "category": "CSS",
+      "question": "Purpose of CSS",
+      "answer": "To design the web page",
+      "id": "83BX9LBddkk"
+    },
+    {
+      "category": "JSON",
+      "question": "What is JSON",
+      "answer": "a lightweight, text-based data-interchange format designed for human readability and machine parsing",
+      "id": "C-dQcu1YLWw"
+    },
+    {
+      "category": "HTML",
+      "question": "What is html?",
+      "answer": "Hypertext Markup Language is the standard markup language for documents designed to be displayed in a web browser.",
+      "id": "_tS6PMo1LBs"
+    },
+    {
+      "category": "JSON",
+      "question": "What is objects in json?",
+      "answer": "A collection of name/value pairs (similar to dictionaries), written as {\"name\": \"value\"}.",
+      "id": "7cohsZI9NtU"
+    },
+    {
+      "category": "HTML",
+      "question": "What is the difference between an HTML Tag and an HTML Element?",
+      "answer": "An HTML Tag is used to mark the start or end of an element (e.g., <a> or </a>). An HTML Element refers to the entire component, including the start tag, the content, and the end tag (e.g., <p>Hello World</p>).",
+      "id": "124r"
+    },
+    {
+      "category": "HTML",
+      "question": "What is html?",
+      "answer": "To design the web page",
+      "id": "XwEO7nRJu2c"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
