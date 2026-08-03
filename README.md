@@ -1,16 +1,37 @@
-# React + Vite
+# Interview Preparation Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Overview
+The Interview Preparation Application is a web application developed using React.js to help users prepare for technical interviews. It provides interview questions in an easy-to-use interface.
 
-Currently, two official plugins are available:
+## Features
+- View interview questions
+- Responsive user interface
+- Fetches data using Axios
+- Uses JSON Server as a mock backend
+- Built with reusable React components
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Tech Stack
+- React.js
+- JavaScript
+- HTML
+- CSS
+- Axios
+- JSON Server
+- Vite
 
-## React Compiler
+## Project Structure
+- Frontend: React.js
+- Backend: JSON Server
+- API Communication: Axios
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## How to Run
+1. Clone the repository.
+2. Install dependencies using:
+   npm install
+3. Start JSON Server:
+   npx json-server --watch db.json --port 3000
+4. Start the React application:
+   npm run dev
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Author
+Hrithik Kashyap D L
